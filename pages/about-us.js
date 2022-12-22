@@ -1,7 +1,6 @@
 import * as React from 'react';
 import Header from '../components/Header'
 import Footer from '../components/Footer'
-import utilStyles from '../styles/utils.module.css'
 import Box from '@mui/material/Box';
 import List from '@mui/material/List';
 import ListItem from '@mui/material/ListItem';
@@ -358,8 +357,6 @@ export default function About() {
                   </CardContent>
                 </Card>
               </Grid>
-
-
             </Grid>
         </Box>
       </section>
