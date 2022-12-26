@@ -1,6 +1,6 @@
 import * as React from 'react';
-import Header from '../components/Header'
-import Footer from '../components/Footer'
+import Header from '../components/header'
+import Footer from '../components/footer'
 import utilStyles from '../styles/utils.module.css'
 import Box from '@mui/material/Box';
 import List from '@mui/material/List';
